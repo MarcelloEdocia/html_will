@@ -1,0 +1,23 @@
+body {
+    background-color:cyan;
+    background-image: linear-gradient(pink, cyan);
+    height:700px;
+    font-family:'Baloo Tammudu 2', cursive;
+    text-align:center;
+    font-size:30px;
+}
+
+h2 {
+    text-align:center;
+    font-size: 37px;
+}
+
+form{
+    text-align:center;
+}
+
+
+img {
+    height:330px;
+    width:400px;
+}
